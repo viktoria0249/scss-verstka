@@ -1,0 +1,25 @@
+.main_work {
+  background: #000;
+  text-align: center;
+  padding: 100px 0 100px 0;
+}
+
+.main_work h1 {
+  margin-bottom: 50px;
+  padding: 0 0 30px 0;
+  border-bottom: 3px solid #fcac45;
+  color: #fff;
+}
+
+.main_work p {
+  margin-bottom: 90px;
+  text-align: center;
+  margin-left: 20%;
+  margin-right: 20%;
+  color: #6c6c6c;
+}
+
+.main_work img:hover {
+  opacity: 0.9;
+}
+/*# sourceMappingURL=work.css.map */
